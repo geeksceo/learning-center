@@ -32,11 +32,11 @@
 				<nav class="main-nav navbar navbar-expand-lg">
 					<div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="assets/images/logo.png" alt="logo"></a></div>
 
-					<div class="navbar-btn order-lg-2">
+					{{-- <div class="navbar-btn order-lg-2">
 						<a class="btn btn-secondary" href="{{ route("register") }}">
 							Réserver
 						</a>
-					</div>
+					</div> --}}
 
 					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
